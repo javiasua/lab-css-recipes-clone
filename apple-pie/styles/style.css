@@ -3,22 +3,21 @@ body{
     width: 100%;
 }
 
+
+
 h1{
-    text-align: center;
     color: white;
-    vertical-align: auto;
+    font-size: 4em;
+    font-weight: 400;
+    text-align: center;
 }
 
-
-
-.myimage {
+.inicio {
     background-image: url("apple-pie.jpg"); 
-    color: white;
-    background-size: cover;
-    width: 450px;
-    height: 450px;
-    text-align: center;
-    margin: auto;
+    padding: 430px;
+    background-size: 100%;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .paragraph{
